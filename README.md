@@ -1,2 +1,2 @@
 # hello-world
-AOs series repository
+bootcamp series repository
